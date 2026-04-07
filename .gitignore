@@ -1,0 +1,5 @@
+node_modules
+
+# nginx runtime files
+NGINX/nginx-1.28.2/logs/
+NGINX/nginx-1.28.2/temp/
